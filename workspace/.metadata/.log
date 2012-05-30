@@ -28,3 +28,22 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -data /Users/kahn/Doc
 
 !ENTRY org.eclipse.core.net 1 0 2012-05-30 15:37:50.535
 !MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2012-05-30 17:32:12.760 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_31
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/kahn/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -data /Users/kahn/Documents/repo/git/workspace -keyring /Users/kahn/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.resources 2 10035 2012-05-30 17:32:15.043
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.net 1 0 2012-05-30 17:32:18.485
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jdt.core 2 0 2012-05-30 19:28:56.735
+!MESSAGE The Java indexing could not index /headfirst/src/chap01/Shuffle1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2012-05-30 19:28:59.122
+!MESSAGE The Java indexing could not index /headfirst/src/chap01/Shuffle1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
